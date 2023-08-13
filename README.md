@@ -1,2 +1,2 @@
 # Data-Structure
-Collection basic programs in C/C++ to learn Data Structure and Algorithms.
+Collection of basic programs in C/C++ to learn Data Structure and Algorithms.
